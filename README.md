@@ -13,8 +13,11 @@ Programação Embarcada
 
 
 Maria Clara M. Santana
+
 Turma 1
+
 Matrícula: 2020012227
+
 Prof.: Otávio Martins
 
 
@@ -40,6 +43,7 @@ Também foi produzido um vídeo da explicação do código e o funcionamento no 
 
 
 
+
 2 Desenvolvimento
 
   1 - Criação da Ideia da Cadeira de Rodas Automática
@@ -54,12 +58,19 @@ Dessa forma, a ideia de uma cadeira de rodas automática que possuísse várias 
 
 A partir de uma ideia inicial, foram sendo incrementadas todas as funcionalidades que o projeto poderia ter.  Os seis dispositivos são:
 
+
 1 - Cooler (Ventoinha).
+
 2 - Teclado.
+
 3 - Display de LCD. 
+
 4 - LEDs. 
+
 5 - Display de 7-Seg.
+
 6 - Relé.
+
 
 O cooler será a representação da roda.
 
@@ -122,28 +133,49 @@ Os LEDs irão acender de formas diferentes em cada movimento para mostrar visual
 acenderão para o respectivo movimento:
 
 FRENTE:
+
 *
+
 o
+
 o
+
 o
+
 
 TRÁS:
+
 o
+
 o
+
 o
+
 *
+
+
 
 DIREITA:
+
 *
+
 *
-o
+
 o
 
+o
+
+
 ESQUERDA:
+
 o
+
 o
+
 *
+
 *
+
 
 Legenda: (*) - Aceso. (o) - Apagado.
 
@@ -175,13 +207,13 @@ TECLA (0) - Recarregar
 
 Teclado
 
-1	  2	  3
+1 	 2	 3
 
-4	  5 	6
+4	 5 	 6
 
-7	  8 	9
+7	 8 	 9
 
-* 	0	  #
+* 	 0	 #
 
 
 
